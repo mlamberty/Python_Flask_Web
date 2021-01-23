@@ -41,6 +41,7 @@
     <Folder Include="Python_Flask_Web\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Python_Flask_Web\static\data.json" />
     <Content Include="requirements.txt" />
     <Content Include="Python_Flask_Web\static\content\bootstrap.css" />
     <Content Include="Python_Flask_Web\static\content\bootstrap.min.css" />
